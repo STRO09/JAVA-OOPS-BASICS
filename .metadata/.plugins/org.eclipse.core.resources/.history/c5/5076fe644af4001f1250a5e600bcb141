@@ -1,0 +1,22 @@
+package simple_innerclass;
+
+class Employee {
+	private String empname; 
+	private int empid;
+	
+	class EmpDetails{
+		 void getDetails() {
+			// TODO Auto-generated method stub
+			 System.out.println(empname+empid);
+		}
+	}
+	
+}
+
+
+
+public class Main {
+public static void main(String[] args) {
+	
+}
+}

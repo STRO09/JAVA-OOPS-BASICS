@@ -1,0 +1,14 @@
+package arraylist_;
+
+public interface Operations {
+
+	void insertData();
+
+	void deleteData();
+
+	void updateData();
+
+	void showData();
+
+	void searchData(int id);
+}

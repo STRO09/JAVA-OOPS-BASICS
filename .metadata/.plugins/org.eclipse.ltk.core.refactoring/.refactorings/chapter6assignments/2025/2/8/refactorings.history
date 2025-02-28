@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;q2.Contract&apos; to &apos;Company&apos;&#x0D;&#x0A;- Original project: &apos;chapter6assignments&apos;&#x0D;&#x0A;- Original element: &apos;q2.Contract&apos;&#x0D;&#x0A;- Renamed element: &apos;q2.Company&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Contract&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;q2{Contract.java[Contract" matchStrategy="1" name="Company" qualified="false" references="true" similarDeclarations="false" stamp="1739877281130" textual="false" version="1.0"/>
+</session>

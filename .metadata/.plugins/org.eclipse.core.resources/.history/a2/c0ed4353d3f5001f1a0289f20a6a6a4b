@@ -1,0 +1,20 @@
+package arraylist_;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Emp emp = new Emp("Sagar", 54, 30000);
+		Emp emp1 = new Emp("prajwal",53,30000);
+		Emp emp2 = new Emp("Rajan",39,30000);
+
+		OpsImp imp = new OpsImp();
+		imp.insertData(emp);
+		
+		
+	}
+
+}

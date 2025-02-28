@@ -1,0 +1,37 @@
+package exception_propogation;
+
+import java.io.IOException;
+
+class A {
+	
+	public A() throws IOException {
+		// TODO Auto-generated constructor stub
+		IOException exception = new IOException();
+		System.out.println(exception);
+	}
+	
+}
+
+class B{
+	
+	public B() throws IOException{
+		// TODO Auto-generated constructor stub
+	}
+}
+
+class C{
+	public C() {
+		// TODO Auto-generated constructor stub
+	}
+}
+public class Main {
+public static void main(String[] args) {
+	try {
+		A a = new A();
+
+	} catch (Exception e) {
+		// TODO: handle exception
+		System.out.println(e);
+	}
+}
+}

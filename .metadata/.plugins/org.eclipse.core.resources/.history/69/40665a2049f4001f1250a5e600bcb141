@@ -1,0 +1,30 @@
+package local_innerclass;
+
+class Emp{
+	 int empid;	
+	 private double salary;
+	 void getDetails() {
+		// TODO Auto-generated method stub
+		 class EmpPersonalDetails{
+
+			 String empname;
+			 String address;
+			  void getallDetails() {
+				// TODO Auto-generated method stub
+				  System.out.println("Employee Name: "+empname+"Id: "+empid+"Salary: "+salary+"address: "+address);
+
+			}
+			 
+		 }
+		 
+	}
+	
+	
+}
+
+public class Main {
+public static void main(String[] args) {
+	Emp emp = new Emp();
+	emp.getDetails();
+}
+}

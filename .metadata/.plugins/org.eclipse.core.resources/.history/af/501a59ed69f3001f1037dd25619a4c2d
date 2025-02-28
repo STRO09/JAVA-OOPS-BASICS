@@ -1,0 +1,12 @@
+package static_import;
+
+
+class Employee extends Accountant {
+
+}
+public class Main {
+public static void main(String[] args) {
+	
+	Employee.calsal(50000, 5000, 1000);
+}
+}

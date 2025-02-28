@@ -1,0 +1,14 @@
+package hashmap;
+
+import java.util.HashMap;
+
+public class Main {
+public static void main(String[] args) {
+	
+	HashMap<Integer, String> hashMap = new HashMap<Integer, String>();
+	hashMap.put(54, "sagar");
+	hashMap.put(39, "rajan");
+	hashMap.put(53, "Sonu");
+	
+}
+}

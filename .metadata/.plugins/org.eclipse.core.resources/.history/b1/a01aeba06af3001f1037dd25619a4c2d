@@ -1,0 +1,7 @@
+package static_import;
+
+public class Main1 extends static Accountant.*{
+public static void main(String[] args) {
+	
+}
+}

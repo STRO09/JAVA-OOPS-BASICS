@@ -1,0 +1,5 @@
+package static_import;
+
+public abstract class Accountant {
+	 abstract void calsal() ;
+}

@@ -1,0 +1,25 @@
+package anonnymousasparameter;
+
+
+class Emp {
+	
+	String empname; 
+	int empid;
+	public Emp(String empname, int empid) {
+		super();
+		this.empname = empname;
+		this.empid = empid;
+	}
+	
+	
+	
+	
+}
+
+
+
+public class Main {
+public static void main(String[] args) {
+	
+}
+}

@@ -1,0 +1,19 @@
+package arraylist_;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Emp emp = new Emp();
+		Emp emp1 = new Emp();
+		Emp emp2 = new Emp();
+
+		
+		List<Emp> emps = new ArrayList<Emp>();
+		
+	}
+
+}

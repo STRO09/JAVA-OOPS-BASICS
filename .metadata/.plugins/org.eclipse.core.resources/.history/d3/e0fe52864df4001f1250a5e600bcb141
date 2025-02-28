@@ -1,0 +1,20 @@
+package anonnymousasparameter;
+
+
+class Emp {
+	
+	String empname; 
+	int empid;
+	
+	
+	
+	
+}
+
+
+
+public class Main {
+public static void main(String[] args) {
+	
+}
+}

@@ -1,0 +1,8 @@
+package static_import;
+
+public abstract class Accountant {
+	 void calsal() {
+		// TODO Auto-generated method stub
+
+	}
+}

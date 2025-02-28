@@ -1,0 +1,17 @@
+package user_defined;
+
+class myexception extends Exception {
+
+}
+
+public class Main {
+
+	public void blockaccess() {
+		// TODO Auto-generated method stub
+
+	}
+	
+public static void main(String[] args) {
+	
+}
+}
