@@ -1,8 +1,0 @@
-package static_import;
-
-public abstract class Accountant {
-	 abstract void calsal(double salary) ;
-	 abstract void calsal(double salary, double tax) ;
-	 abstract void calsal(double salary, double tax, double bonus) ;
-}
-

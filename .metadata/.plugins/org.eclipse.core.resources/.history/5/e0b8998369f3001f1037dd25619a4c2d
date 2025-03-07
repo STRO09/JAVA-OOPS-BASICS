@@ -1,9 +1,0 @@
-package static_import;
-
-import static_import.Accountant;
-
-public class Main {
-public static void main(String[] args) {
-	
-}
-}

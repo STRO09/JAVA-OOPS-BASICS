@@ -1,0 +1,17 @@
+package properties;
+
+
+import java.util.Properties;
+
+public interface Operations {
+
+	void insertData(Properties properties);
+
+	void deleteData(int empid);
+
+	void updateData(int empid, String name);
+
+	void showData();
+
+	void searchData(int id);
+}

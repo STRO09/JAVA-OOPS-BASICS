@@ -1,0 +1,13 @@
+package properties;
+
+import java.util.Properties;
+
+public class Main {
+public static void main(String[] args) {
+	
+	Properties properties = new Properties();
+	properties.put("India", "Delhi");
+	properties.put("Japan", "tokyo");
+	properties.put("USA", "Wshington");
+}
+}

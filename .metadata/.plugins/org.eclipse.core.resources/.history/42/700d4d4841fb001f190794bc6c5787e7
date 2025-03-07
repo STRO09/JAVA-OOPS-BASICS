@@ -1,0 +1,27 @@
+package properties;
+
+public class Main {
+
+	public static void main(String[] args) {
+				
+		OpsImp imp = new OpsImp();
+		imp.insertData("India", "Delhi");
+		imp.insertData("China", "Beijing");
+		imp.insertData("Japan","Tokyo");
+		imp.insertData("USA", "Washington");
+//		imp.deleteData(53);
+//		imp.deleteData(54);
+//		imp.showData();
+//		imp.searchData(54);
+//		imp.searchData(7);
+////
+//		imp.updateData(54, "Janjoted");
+//		
+//		imp.updateData(39,"Hari");
+////		
+//		imp.showData();
+		
+
+	}
+
+}

@@ -1,0 +1,30 @@
+package hashmap_;
+
+import java.util.HashMap;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		HashMap<Integer, String> map = new HashMap<Integer, String>();
+		map.put(54, "Sagar");
+		map.put(39, "Rajan");
+		map.put(6, "Ishwari");
+		map.put(7, "Krishnal");
+		OpsImp imp = new OpsImp();
+
+		imp.insertData(map);
+		imp.showData();
+		imp.deleteData(101);
+//		imp.showData();
+//		
+//		imp.searchData(54);
+//
+//		imp.updateData(54, "Janjoted");
+//		
+//		imp.showData();
+		
+
+	}
+
+}

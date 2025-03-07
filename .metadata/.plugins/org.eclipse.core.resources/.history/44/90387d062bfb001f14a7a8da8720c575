@@ -1,0 +1,25 @@
+package hashmap_;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		OpsImp imp = new OpsImp();
+		imp.insertData(emp);
+		imp.insertData(emp1);
+		imp.insertData(emp2);
+		imp.insertData(emp3);
+		imp.showData();
+		imp.deleteData(101);
+		imp.showData();
+		
+		imp.searchData(54);
+
+		imp.updateData(54, "Janjoted");
+		
+		imp.showData();
+		
+
+	}
+
+}

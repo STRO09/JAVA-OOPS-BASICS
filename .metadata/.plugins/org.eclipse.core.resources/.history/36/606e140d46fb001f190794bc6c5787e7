@@ -1,0 +1,15 @@
+package properties;
+
+
+public interface Operations {
+
+	void insertData(String country, String capital);
+
+	void deleteData(String country);
+
+	void updateData(int empid, String name);
+
+	void showData();
+
+	void searchData(String country);
+}
