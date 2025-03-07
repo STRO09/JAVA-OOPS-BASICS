@@ -1,0 +1,17 @@
+package stack;
+
+import java.util.Stack;
+
+public class Main {
+public static void main(String[] args) {
+	Stack<Integer> fibonacci = new Stack<Integer>();
+	fibonacci.push(0);
+	fibonacci.push(1);
+	fibonacci.push(1);
+	fibonacci.push(2);
+	fibonacci.push(3);
+	fibonacci.push(5);
+	fibonacci.peek();
+	
+}
+}
