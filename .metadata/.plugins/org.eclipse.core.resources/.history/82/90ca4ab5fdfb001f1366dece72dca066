@@ -1,0 +1,24 @@
+package iteration;
+
+import java.util.Collections;
+import java.util.Enumeration;
+import java.util.List;
+import java.util.Vector;
+
+public class Enumerator_main {
+public static void main(String[] args) {
+	Vector<String> emps = new Vector<String>();
+	
+	emps.add("Sagar");
+	emps.add("Prajwal");
+	emps.add("Sonu");
+	emps.add("Aditri");
+	
+	Enumeration<String> emp;
+	
+	emp = emps.elements();
+	List<String> enumerationList = Collections.list(emp);
+	System.out.println(enumerationList);
+	
+}
+}

@@ -1,0 +1,24 @@
+package set;
+
+import java.util.TreeSet;
+
+public class Treeset {
+	public static void main(String[] args) {
+
+		TreeSet<String> emps = new TreeSet<String>();
+
+		emps.add("Sagar");
+		emps.add("Prajwal");
+		emps.add("Sonu");
+		emps.add("Aditri");
+
+		emps.addFirst("First employee");
+		emps.addLast("Last emp");
+		System.out.println(emps.contains("Rajan"));
+
+		System.out.println(emps.first());
+		
+System.out.println(		emps.isEmpty());
+
+	}
+}

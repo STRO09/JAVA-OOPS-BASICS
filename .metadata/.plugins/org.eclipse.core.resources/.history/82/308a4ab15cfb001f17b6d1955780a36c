@@ -1,0 +1,11 @@
+package set;
+
+import java.util.TreeSet;
+
+public class Treeset {
+public static void main(String[] args) {
+	
+	TreeSet<String> empids = new TreeSet<String>();
+	
+}
+}

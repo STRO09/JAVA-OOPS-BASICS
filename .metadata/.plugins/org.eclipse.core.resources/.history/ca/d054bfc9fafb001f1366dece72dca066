@@ -1,0 +1,15 @@
+package iteration;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.ListIterator;
+
+public class ListIterator_main {
+public static void main(String[] args) {
+	LinkedList<String> distros = new LinkedList<String>(List.of("TempleOS","OpenBSD","ArchLinux", "Fedora"));
+	
+	ListIterator<String> listIterator = distros.listIterator();
+	
+	
+}
+}
