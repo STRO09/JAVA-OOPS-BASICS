@@ -15,9 +15,9 @@ class Manager extends Company {
 	final int projectgain = 5000;
 
 
-	final void getinfo() {
+	final void finalproject() {
 		// TODO Auto-generated method stub
-	 System.out.println("Confidential info");
+	 System.out.println("Final project");
 
 	}
 	
@@ -27,7 +27,7 @@ class Manager extends Company {
 class Employee extends Manager {
 	
 	//@Override 
-	//void getinfo() {
+	//void finalproject() {
 		// TODO Auto-generated method stub}
 }
 
@@ -35,5 +35,10 @@ class Employee extends Manager {
 public class Main {
 public static void main(String[] args) {
 	
+	Employee employee = new Employee();
+	System.out.println(employee.projectgain);
+	
+	//employee.projectgain = 4000;
+	employee.finalproject();
 }
 }

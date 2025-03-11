@@ -29,7 +29,7 @@ public static void main(String[] args) {
 		blockaccess(age);
 	} catch (Myexception e) {
 		// TODO: handle exception
-		
+		System.out.println(e);
 	}
 }
 }

@@ -1,0 +1,10 @@
+SPAROIDS-M 
+
+SIMPLE - Simple syntax and easy to learn
+PORTABLE - Once the java code is compiled into byte code(.class files), JVM of any OS can run it. Java is write once run anywhere (WORA).
+ARCHITECTURE NEUTRAL - JVM is available for all OS, and the same byte code can be interpreted by any OS' JVM.
+OBJECT ORIENTED - Java programming revolves around object and it implements OOPS features- APIE (Abstraction, Polymorphism, Inheritance, Encapsulation). Java is not an purely oop language.
+INTERPRETED - .java file is converted into .class files with compiler and to execute this files interpreter is used which is a component of jvm.
+DISTRIBUTED - Java is widely used to build distributed Enterprise level applications.
+SECURE - Java does not make use of explicit pointers. physical address of variables(data) cannot be known.
+MULTI THREADING - Java can run multiple threads at the same time to increase speed of the program. a thread is a subpart of a process.

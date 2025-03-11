@@ -54,7 +54,7 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
-		<item key="InsertPosition.v2" value="2"/>
+		<item key="InsertPosition.v2" value="1"/>
 		<item key="VisibilityModifier" value="1"/>
 		<item key="InstanceOf" value="false"/>
 		<item key="Blocks" value="false"/>
@@ -78,7 +78,7 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
-		<item key="InsertPosition.v2" value="2"/>
+		<item key="InsertPosition.v2" value="1"/>
 	</section>
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
 		<item key="OmitCallToSuper" value="false"/>

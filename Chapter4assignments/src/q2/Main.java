@@ -11,7 +11,6 @@ class Disconnectedobj {
 public class Main {
 	public static void main(String[] args) {
 		
-		@SuppressWarnings("unused")
 		Disconnectedobj disconnectedobj = new Disconnectedobj();
 		disconnectedobj = null;
 		System.gc();

@@ -8,11 +8,4 @@ public class Salary {
 
 	}
 	
-	
-	public static void main(String[] args) {
-		
-		Salary salary = new Salary();
-		salary.calculateSalary(50000, 500);
-		
-	}
 }
