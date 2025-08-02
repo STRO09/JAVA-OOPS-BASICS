@@ -1,9 +1,0 @@
-package iteration;
-
-import java.util.Vector;
-
-public class Enumerator_main {
-public static void main(String[] args) {
-	Vector<String> emps = new Vector<String>();
-}
-}

@@ -1,8 +1,0 @@
-package set;
-
-public class Treeset {
-public static void main(String[] args) {
-	
-	Treeset treeset = new Treeset();
-}
-}

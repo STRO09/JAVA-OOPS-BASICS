@@ -1,7 +1,0 @@
-package comparable;
-
-public class Employees {
-
-	private String empname; 
-	private int empid;
-}
