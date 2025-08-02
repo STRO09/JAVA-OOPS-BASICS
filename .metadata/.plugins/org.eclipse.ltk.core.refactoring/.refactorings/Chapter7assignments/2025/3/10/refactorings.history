@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Main.java&apos; to &apos;Chapter11assignment/src/getclass&apos;&#x0D;&#x0A;- Original project: &apos;Chapter7assignments&apos;&#x0D;&#x0A;- Destination element: &apos;Chapter11assignment/src/getclass&apos;&#x0D;&#x0A;- Original element: &apos;getclass.Main.java&apos;" description="Copy compilation unit" destination="=Chapter11assignment/src&lt;getclass" element1="/src&lt;getclass{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1741442085893" units="1" version="1.0"/>
+</session>
